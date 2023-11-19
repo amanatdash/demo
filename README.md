@@ -1,6 +1,3 @@
 # demo
-we are pixelnougats
-
-
-
+we are pixelnougats<br>
 preaparing a project on AI renewable energy forecast
